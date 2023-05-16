@@ -12,3 +12,13 @@ const occupation = "Idiot"
 const gender = "Ask Jesus"
 console.log(firstName, surname, aGe, occupation, gender);
 
+let myFirstname ="Inam"
+let myLastname ="Nkabi"
+console.log(myFirstname+myLastname);
+
+let numberVar = 5;
+console.log(numberVar*5);
+
+const myfirstname = "Inam";
+myfirstname = "Nkabi";
+
